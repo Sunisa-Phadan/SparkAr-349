@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Haed",
+  "identifier": "texture:594179-5c9c4ac7-99cf-49f0-89e3-7e7e65e79a58",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "675c400a60d2bc20db3069e9027c37df",
+  "assetLocator": "textures/Haed.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 126,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 482,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "675c400a60d2bc20db3069e9027c37df",
+      "colorCount": 11660,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 7.40901652714098,
+      "pixelsHigh": 126,
+      "pixelsWide": 482
+    }
+  ]
+}

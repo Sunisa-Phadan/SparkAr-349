@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Chi_Tree(2)",
+  "identifier": "texture:228996-63a4f671-f1fb-4408-982a-794344e93094",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "7efb760235783f894a5f4bae57eb0238",
+  "assetLocator": "textures/Chi_Tree(2).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 576,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "7efb760235783f894a5f4bae57eb0238",
+      "colorCount": 42211,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 2.154902956080757,
+      "pixelsHigh": 576,
+      "pixelsWide": 1024
+    }
+  ]
+}

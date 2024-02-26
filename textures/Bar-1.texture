@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Bar-1",
+  "identifier": "texture:6542-87d4241c-5b65-47ef-a426-c951e9a9f7b8",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "bda7d33e29137c5a2fdd2705f7aae415",
+  "assetLocator": "textures/Bar-1.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 62,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 131,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "bda7d33e29137c5a2fdd2705f7aae415",
+      "colorCount": 1943,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 3.6234960127958145,
+      "pixelsHigh": 62,
+      "pixelsWide": 131
+    }
+  ]
+}

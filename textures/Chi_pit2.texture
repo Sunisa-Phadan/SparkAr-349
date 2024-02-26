@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Chi_pit2",
+  "identifier": "texture:2523-e0304bf2-2e1e-4121-b44d-ae4bbde2e31b",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "a3675a395088e5b2967169a6283a3a64",
+  "assetLocator": "textures/Chi_pit2.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 576,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "a3675a395088e5b2967169a6283a3a64",
+      "colorCount": 24621,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.2540171064439398,
+      "pixelsHigh": 576,
+      "pixelsWide": 1024
+    }
+  ]
+}
